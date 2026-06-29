@@ -15,8 +15,8 @@ npm run start
 
 ---
 
-### Docusaurus is a modern static website generator, so we need to build the website into a directory of static contents and put it on a web server so that it can be viewed. To build the website:
-
+### Docusaurus is a modern static website generator, so we need to build the website into a directory of static contents and put it on a web server so that it can be viewed. To build the website :
+### Do this at the time of Deployment
 ```bash
 npm run build
 ```
